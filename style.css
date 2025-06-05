@@ -1,3 +1,13 @@
+div {
+    padding: 1.5rem; /* p-6 */
+    border-radius: 0.75rem; /* rounded-lg */
+    box-shadow:
+        0 4px 6px -1px rgba(0, 0, 0, 0.1),
+        0 2px 4px -1px rgba(0, 0, 0, 0.06); /* shadow-md */
+    margin-bottom: 2rem; /* mb-8 */
+    text-align: center; /* Default text centering for content inside the box */
+}
+
 .div-booklet {
     width: 100%;
     height: auto;
