@@ -1,0 +1,5 @@
+.booklet-page {
+    max-width: 100%; /* Ensures the image doesn't overflow its container */
+    height: auto; /* Maintains the aspect ratio */
+    display: block; /* Removes extra space below the image */
+}
